@@ -11,7 +11,12 @@ Key aspects of the project include:
 - Implementation of **linear regression** models.  
 - Exploration of **nonlinear sinusoidal regression** to capture periodic trends.  
 - Use of **L1 (Lasso)** and **L2 (Ridge)** regularization to improve generalization.  
-- Evaluation of models using the **Mean Squared Error (MSE)** metric.  
+- Evaluation of models using the **Mean Squared Error (MSE)** metric.
+
+  
+![output](https://github.com/user-attachments/assets/eadb5123-de00-4050-8dc6-b0d812adfb83)
+
+
 
 ## Repository Structure  
 
